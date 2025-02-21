@@ -9,7 +9,7 @@ To use this app, first clone the repository in your terminal.
 3. Type the following command, replacing `<repository-url>` with the actual URL:  
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/jniyitegek/submission_reminder_app_jniyitegek
 4. Use cd to navigate into the cloned main directory
    ```bash
    cd submission_reminder_app_jniyitegek
