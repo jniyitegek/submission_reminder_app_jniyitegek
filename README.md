@@ -10,3 +10,6 @@ To use this app, first clone the repository in your terminal.
 
    ```bash
    git clone <repository-url>
+4. Use cd to navigate into the cloned main directory
+   ```bash
+   cd submission_reminder_app_jniyitegek
