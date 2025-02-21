@@ -31,5 +31,11 @@ To start the app in your terminal, run the following command:
 * If you choose **Yes**, the app will automatically start, and you will receive the details about:
   1. **The assignment title and its due date.**
   2. **The names of the students who didn't submit yet.**
-  3. **The titles of assignments they didn't submit.**
+  3. **The titles of assignments they didn't submit.*
+Suppose you choose **No** in the previous step. You will be given a command that will navigate to your environment (remember, we created it in step one). Also, you will be given the command to type in to start the app manually (**./startup.sh**). Don't worry; all the commands will be provided, and you have to copy and paste them.
+
+* You will then get the same details as the one in the previous step but one:
+ 1. **The assignment title and its due date.**
+ 2. **The names of the students who didn't submit yet.** 
+ 3. **The titles of assignments they didn't submit.**
 
