@@ -13,3 +13,9 @@ To use this app, first clone the repository in your terminal.
 4. Use cd to navigate into the cloned main directory
    ```bash
    cd submission_reminder_app_jniyitegek
+## The App Startup and Running Instructions
+
+To start the app in your terminal, run the following command:
+
+```bash
+./create_environment.sh
