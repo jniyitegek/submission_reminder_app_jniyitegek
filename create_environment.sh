@@ -66,13 +66,13 @@ chmod +x "$modules_dir/functions.sh"
 
 cat << EOF > "$assets_dir/submissions.txt"
 Student Name, Assignment, Status
-Chinemerem, Shell Navigation, not submitted
+Chinemerem, Shell Navigation, submitted
 Chiagoziem, Git, submitted
 Julius Kate, Shell Navigation, not submitted
 Anissa, Shell Basics, submitted
-Jean De Dieu Rukara, Shell Navigation, submitted
+Jean De Dieu Rukara, Shell Navigation, not submitted
 Divine Keza, Git, not submitted
-Cindy Bwiza, Shell Navigation, submitted
+Cindy Bwiza, Shell Navigation, not submitted
 Mike Mizero, Shell Basics, late submission
 Saad Byiringiro, Shell Navigation, not submitted
 Aime Cyuzuzo, Git, submitted
