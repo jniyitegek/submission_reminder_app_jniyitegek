@@ -19,3 +19,15 @@ To start the app in your terminal, run the following command:
 
 ```bash
 ./create_environment.sh
+* That command will start the script which will help in creating the environment for the app to run smoothly. 
+
+* Upon running **./create_environment.sh**, you will be prompted to type the name under which the environment directories will be created.
+
+* **Type your name**, for example, Lucas_Nshuti
+
+* After the environment has been created successfully, you will be asked to choose whether you want to run the app automatically or through command. Choose accordingly: **y(Yes) to start to app right away or n(No) to run the app manually.** Details will be provided.
+
+* If you choose **Yes**, the app will automatically start, and you will receive the details about:
+  1. **The assignment title and its due date.**
+  2. **The names of the students who didn't submit yet.**
+  3. **The titles of assignments they didn't submit.**
