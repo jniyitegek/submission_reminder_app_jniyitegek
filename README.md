@@ -22,7 +22,7 @@ To start the app in your terminal, run the following command:
 ```
 * That command will start the script which will help in creating the environment for the app to run smoothly. 
 
-* Upon running ```bash ./create_environment.sh** ```, you will be prompted to type the name under which the environment directories will be created.
+* Upon running ``` ./create_environment.sh ```, you will be prompted to type the name under which the environment directories will be created.
 
 * **Type your name**, for example, Lucas_Nshuti
 
